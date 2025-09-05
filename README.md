@@ -12,7 +12,7 @@ This repository showcases an end-to-end data warehousing and analytics solution.
 ## Objective
 To build a modern SQL Server data warehouse that integrates sales data from disparate sources, enabling powerful analytical reporting and data-driven decision-making.
 
-### Key Specifications**
+### Key Specifications
 **Data Ingestion:** Extract and import data from two primary source systems—an ERP and a CRM—provided in CSV format.
 **Data Preparation:** Implement cleansing and transformation processes to address and resolve data quality issues.
 **Data Modeling & Integration:** Develop a unified, optimized dimensional data model (e.g., star schema) that integrates both data sources for efficient analytical querying.

@@ -5,9 +5,9 @@ This repository showcases an end-to-end data warehousing and analytics solution.
 
 ---
 
-### **Project Requirements**
+## **Project Requirements**
 
-#### **Data Warehouse Engineering**
+#### Building the Data Warehouse (Data Engineering)
 
 ## Objective
 To build a modern SQL Server data warehouse that integrates sales data from disparate sources, enabling powerful analytical reporting and data-driven decision-making.

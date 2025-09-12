@@ -1,8 +1,10 @@
 /*
+========================================================================
 DDL Script: Create Bronze Tables
 Script Purpose:
 This script creates tables in the 'bronze' schema.
 Run this script to re-define the DDL structure of 'bronze' Tables.
+========================================================================
 */
 
 CREATE TABLE bronze.crm_cust_info
